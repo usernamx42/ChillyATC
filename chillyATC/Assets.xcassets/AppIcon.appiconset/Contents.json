@@ -1,6 +1,7 @@
 {
   "images" : [
     {
+      "filename" : "Monosnap 2025-02-14 03-41-29.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -12,6 +13,7 @@
           "value" : "dark"
         }
       ],
+      "filename" : "Monosnap 2025-02-14 03-41-29 1.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
@@ -23,6 +25,7 @@
           "value" : "tinted"
         }
       ],
+      "filename" : "Monosnap 2025-02-14 03-41-29 2.png",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
